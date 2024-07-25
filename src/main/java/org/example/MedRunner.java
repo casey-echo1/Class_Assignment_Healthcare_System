@@ -35,9 +35,9 @@ public class MedRunner {
 
 		hospital2.addPatient(p1);
 		hospital2.addPatient(p2);
-		System.out.println(hospital2.toString());
+//		System.out.println(hospital2.toString());
 //=> Ask if there is a way to return the patient knowing his/her ID
-		System.out.println("Patient 45: " + hospital2.getPatient(45));
+		System.out.println("Patient 45 : " + hospital2.getPatient(45));
 
 	}
 }

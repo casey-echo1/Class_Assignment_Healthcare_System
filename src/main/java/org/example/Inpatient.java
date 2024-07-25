@@ -1,3 +1,4 @@
+//good
 package org.example;
 
 public class Inpatient extends Patient{
